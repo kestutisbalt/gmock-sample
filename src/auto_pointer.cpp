@@ -1,6 +1,6 @@
-#include <auto-pointer/auto_pointer.hpp>
+#include <gmock-sample/auto_pointer.hpp>
 
-namespace auto_pointer
+namespace gmock_sample
 {
 
 template <class T>

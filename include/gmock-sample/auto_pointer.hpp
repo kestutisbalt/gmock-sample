@@ -1,7 +1,7 @@
 #ifndef AUTO_POINTER_HPP
 #define AUTO_POINTER_HPP
 
-namespace auto_pointer
+namespace gmock_sample
 {
 
 template <class T>
